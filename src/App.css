@@ -1,0 +1,23 @@
+h3 {
+  color: #35b57a;
+}
+
+h5 {
+  color: #35b57aba;
+}
+
+.radios {
+  margin-top: 10px !important;
+}
+
+.my-items > div, .my-items .form-label {
+  margin-top: 10px;
+}
+
+.App {
+  padding-bottom: 50px;
+}
+
+.float-right {
+  float: right;
+}
